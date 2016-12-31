@@ -25,16 +25,16 @@ a:hover {
 
 footer {
     background-color: rgb(240,240,240);
-    height: 30px;
+    height: 40px;
     width: 100%;
     position: absolute;
     bottom: 0px;
 }
 
-.align-left {
-    text-align: left;
+.marginleft {
+    margin-left: 30px
 }
 
-.align-right {
-    text-align: right;
+.marginright {
+    margin-right: 30px
 }
