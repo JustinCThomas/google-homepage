@@ -1,6 +1,18 @@
 body {
-    background-color: rgb(0,0,255);
+    background-color: rgb(255,255,255);
     text-align: center;
+    margin: 100px auto;
+}
+
+img {
+    height: 200px ;
+    width: 600px;
+    margin: 10px;
+}
+
+.searchbar {
+    height: 30px;
+    width: 550px;
 }
 
 a {
@@ -9,4 +21,20 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+footer {
+    background-color: rgb(240,240,240);
+    height: 30px;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.align-right {
+    text-align: right;
 }
